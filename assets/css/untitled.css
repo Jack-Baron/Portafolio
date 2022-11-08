@@ -1,0 +1,10 @@
+.divisor {
+  width: 100%;
+  margin-bottom: 3rem;
+  animation-name: divisor;
+  animation-duration: 3s;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  position: absolute;
+}
+
